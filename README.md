@@ -1,13 +1,12 @@
 <!-- Banner -->
 <a href="https://github.com/Lean-0n">
-  <img src="assets/banner.png" alt="Banner">
+  <img src="assets/banner-final.png" alt="Banner">
 </a>
 
 <!-- Presentación -->
 <section style="margin-top:20px;">
   <h2 align="center">👋 ¡Hola mundo! Soy Leandro Valladares</h2>
   <img src="assets/cat-gif.gif" width="200" align="left" alt="Gato Pixelado Animado"/>
-
 
   <article>
     <br>
