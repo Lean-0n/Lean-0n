@@ -25,7 +25,7 @@
     <br>
     <li>🌈 Diseño con propósito: Cada línea de CSS es una pincelada que busca armonía.</li>
     <li>🧠 Curiosidad constante: Siempre estoy aprendiendo algo nuevo, desde frameworks hasta diseños.</li>
-    <li>🎮 Creatividad lúdica: Me inspiran los videojuegos y el pixel art.</li>
+    <li>🎮 Creatividad lúdica: Me inspiran los videojuegos y los dibujos.</li>
     <li>🤝 Empatía digital: Me gusta que quienes visitan mis proyectos se sientan cómodos, inspirados y bienvenidos.</li>
   </ul>
 </section>
